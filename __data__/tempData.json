@@ -1,0 +1,1832 @@
+{
+  "data": [
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:23:33 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup(){\r\n  for(let i = 0; i < 10; i++){ellipse(width/2,height/2,(i+1)*10,(i+1)*10);}\r\n  if()\r\n    // BLANK[1]\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:26:52 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}\r\n\r\n    // BLANK[1]\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:26:54 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}\r\n\r\n    // BLANK[1]\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:10 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}\r\n\r\n    // BLANK[1]\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:10 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}\r\n\r\n    // BLANK[1]\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:12 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}\r\n\r\n    // BLANK[1]\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:27 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:29 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:29 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:30 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:30 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:30 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:30 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:31 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:36 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:28:38 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:39:05 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width, height, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:39:07 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width, height, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:39:37 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:39:56 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:40:15 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, 3, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:40:59 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, i, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:41:09 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// 小手調べ\r\nfunction setup() {\r\n  createCanvas(120, 120);\r\n  background(255);\r\n  noFill();\r\n  for(let i = 0; i < 10; i++){\r\n    let d = (i + 1) * 10;\r\n    if (i < 5) {\r\n      stroke(0, 0, 255);\r\n    } else {\r\n      stroke(255, 0, 0);\r\n    }\r\n    ellipse(width/2, height/2, d, d);\r\n  }\r\n}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:44:33 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  createCanvas(200, 200);\r\n  let size = width / 8;\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      // BLANK[1] (hint: rectのx座標は size * i, y座標はsize * j)\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:44:34 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  createCanvas(200, 200);\r\n  let size = width / 8;\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      // BLANK[1] (hint: rectのx座標は size * i, y座標はsize * j)\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:45:59 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  createCanvas(200, 200);\r\n  let size = width / 8;\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      // BLANK[1] (hint: rectのx座標は size * i, y座標はsize * j)\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:46:08 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  createCanvas(200, 200);\r\n  let size = width / 8;\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      // BLANK[1] (hint: rectのx座標は size * i, y座標はsize * j)\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:57:27 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  createCanvas(200, 200);\r\n  let size = width / 8;\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 11:57:29 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  createCanvas(200, 200);\r\n  let size = width / 8;\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:00:45 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  let s=50;\r\n  let d=40+\r\n  createCanvas(400,400);\r\n  background(255);\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:00:48 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  let s=50;\r\n  let d=40+\r\n  createCanvas(400,400);\r\n  background(255);\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:00:48 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  let s=50;\r\n  let d=40+\r\n  createCanvas(400,400);\r\n  background(255);\r\n  noStroke();\r\n  for(let i = 0; i < 8; i++){\r\n    for(let j = 0; j < 8; j++){\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:10:09 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:10:10 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:10:11 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:10:11 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "savedAt": "10/8/2024, 12:10:12 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:29:47 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:29:50 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:30 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:31 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:32 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:32 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:32 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:33 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:33 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:33 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:35 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\na\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:36 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\na\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:30:37 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\na\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:32:52 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; // グローバル変数として定義\r\n\r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0); // 修正\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:34:14 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.6);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:34:20 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:34:42 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.06);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:34:48 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.1);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:34:53 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:35:25 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05)\r\n  color(black);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:35:26 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05)\r\n  color(black);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:36:15 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n  fill(0,0,0);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:36:24 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n  fill(0, 0, 0);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:36:26 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n  fill(0, 0, 0);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:36:45 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n  fill(0, 0, 0);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 11:36:47 AM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nlet cx, cy; \r\nfunction setup() {\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8\r\n  );\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n  fill(0, 0, 0);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:12:41 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  draw\r\n\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:12:45 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  draw\r\n\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:13:33 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n\r\n //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  draw\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:13:51 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n //中心座標と最大半径\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  draw\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:14:56 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\n\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n //中心座標と最大半径\r\n  const cx = width / 2; // 中心は (cx, cy)\r\n  const cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:15:27 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:17:21 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.7);\r\n  drawArcs\r\n  drawArcs\r\n  drawCircle\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:17:31 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs\r\n  drawArcs\r\n  drawCircle\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:17:59 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs\r\n  drawCircle\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:18:35 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs(black,cream,maxR*0.45);\r\n  drawCircle\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:19:11 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs(black,cream,maxR*0.45);\r\n  drawCircle(green,maxR*0.2)\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:19:16 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs(black,cream,maxR*0.45);\r\n  drawCircle(green,maxR*0.2);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:19:22 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);//外側の黒い円\r\n  drawArcs(green, red, maxR * 0.8);//緑と赤のアーク\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs(black,cream,maxR*0.45);\r\n  drawCircle(green,maxR*0.1);\r\n  // BLANK[1] (hint: drawArcs x 3, drawCircle x 1)\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:20:03 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs(black,cream,maxR*0.45);\r\n  drawCircle(green,maxR*0.1);\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:20:04 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ダーツ\r\nlet cx, cy;\r\nfunction setup() {\r\n  //定数として色を定義する\r\n  const green = color(0, 255, 0);\r\n  const red = color(255, 0, 0);\r\n  const black = color(0, 0, 0);\r\n  const cream = color(242, 212, 147);\r\n\r\n  //キャンバスの生成\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  stroke(255);\r\n  strokeWeight(3);\r\n\r\n //中心座標と最大半径\r\n  cx = width / 2; // 中心は (cx, cy)\r\n  cy = height / 2;\r\n  const maxR = min(width, height); // 大きさは幅と高さのうち小さい方\r\n \r\n  //円の描写\r\n  drawCircle(black, maxR);\r\n  drawArcs(green, red, maxR * 0.8);\r\n  drawArcs(black,cream,maxR*0.75);\r\n  drawArcs(green, red, maxR * 0.5);\r\n  drawArcs(black,cream,maxR*0.45);\r\n  drawCircle(green,maxR*0.1);\r\n  drawCircle(red, maxR * 0.05);\r\n}\r\n\r\nfunction drawCircle(c, r){\r\n  fill(c);\r\n  ellipse(cx, cy, r, r);\r\n}\r\n\r\nfunction drawArcs(c1, c2, r) {\r\n  for (let i = 0; i < 20; i++) {\r\n    let start = TWO_PI / 20 * i;\r\n    let stop = TWO_PI / 20 * (i + 1);\r\n    fill(i % 2 == 0 ? c1 : c2);\r\n    arc(cx, cy, r, r, start, stop, PIE);\r\n  }\r\n}\r\n\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:23:08 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  let s = 50;\r\n  let d = 40;\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  noStroke();\r\n  for (let i = 0; i < 8; i++) {\r\n    for (let j = 0; j < 8; j++) {\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:23:22 PM",
+          "sources": [
+            {
+              "fileExtension": "",
+              "filename": "sketch.js",
+              "content": "// チェッカー\r\nfunction setup() {\r\n  let s = 50;\r\n  let d = 40;\r\n  createCanvas(400, 400);\r\n  background(255);\r\n  noStroke();\r\n  for (let i = 0; i < 8; i++) {\r\n    for (let j = 0; j < 8; j++) {\r\n      let x = i * s;\r\n      let y = j * s;\r\n      if ((i + j) % 2 === 1) {\r\n        fill(122);\r\n        rect(x, y, s, s);\r\n      }\r\n      if (((i + j) % 2 === 1) && (j < 3)) {\r\n        fill(255, 0, 0);\r\n        ellipse(x + s / 2, y + s / 2, d);\r\n      }\r\n      if (((i + j) % 2 === 1) && (4 < j)) {\r\n        fill(0);\r\n        ellipse(x + s / 2, y + s / 2, d, d);\r\n      }\r\n    }\r\n  }\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:24:24 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  noStroke();\r\n  background(255);\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  for(let i = 0; i < 9; i++){\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:24:31 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  for(let i = 0; i < 9; i++){\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:27:57 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:27:57 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:27:57 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:27:59 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:28:43 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i/2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:28:53 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:32:16 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  rect(0,size/2-d/2,size.d);\r\n  rect(size/2-d/2,0,d,size);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:32:36 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  rect(0,size/2-d/2,size,d);\r\n  rect(size/2-d/2,0,d,size);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:32:52 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2=0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  rect(0,size/2-d/2,size,d);\r\n  rect(size/2-d/2,0,d,size);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:32:57 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);\r\n\r\n  fill(255);\r\n  rect(0,size/2-d/2,size,d);\r\n  rect(size/2-d/2,0,d,size);\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:48:41 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2-d/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:49:40 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:49:40 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:49:41 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:49:41 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:49:46 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n  // noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2-d/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:51:10 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n　noStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2-d/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/9/2024, 12:51:13 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\nnoStroke();\r\n  background(255);\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){\r\n      fill(blue);\r\n    }else{\r\n      fill(255);\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線\r\n  rect(size/2-d/2,0,d,size);//縦白線\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/10/2024, 2:53:40 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n　noStroke();//線消す\r\n  background(255);//背景白\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2==0){//2で割ったあまりが0\r\n      fill(blue);//条件を満たすとき青で塗る\r\n    }else{//それ以外のとき\r\n      fill(255);//白で塗る\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線 （x座標、ｙ座標、横幅、縦幅）\r\n  rect(size/2-d/2,0,d,size);//縦白線　（x座標、ｙ座標、横幅、縦幅）\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/10/2024, 2:54:01 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n　noStroke();//線消す\r\n  background(255);//背景白\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2===0){//2で割ったあまりが0\r\n      fill(blue);//条件を満たすとき青で塗る\r\n    }else{//それ以外のとき\r\n      fill(255);//白で塗る\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線 （x座標、ｙ座標、横幅、縦幅）\r\n  rect(size/2-d/2,0,d,size);//縦白線　（x座標、ｙ座標、横幅、縦幅）\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/10/2024, 2:54:03 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n　noStroke();//線消す\r\n  background(255);//背景白\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2===0){//2で割ったあまりが0\r\n      fill(blue);//条件を満たすとき青で塗る\r\n    }else{//それ以外のとき\r\n      fill(255);//白で塗る\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線 （x座標、ｙ座標、横幅、縦幅）\r\n  rect(size/2-d/2,0,d,size);//縦白線　（x座標、ｙ座標、横幅、縦幅）\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    },
+    {
+      "dataType": "javascript",
+      "bodyData": {
+        "document": {
+          "studentId": "2310594h",
+          "workspace": "",
+          "savedAt": "10/10/2024, 2:54:16 PM",
+          "sources": [
+            {
+              "fileExtension": "js",
+              "filename": "sketch.js",
+              "content": "// ギリシャ国旗\r\nfunction setup() {\r\n  const blue = color(0, 51, 160);\r\n  createCanvas(270, 180);\r\n　noStroke();//線消す\r\n  background(255);//背景白\r\n\r\n\r\n  let d = height / 9; // 縞1本の太さ\r\n\r\n  //縞模様を描く\r\n  for(let i = 0; i < 9; i++){\r\n    if(i%2===0){//2で割ったあまりが0\r\n      fill(blue);//条件を満たすとき青で塗る\r\n    }else{//それ以外のとき\r\n      fill(255);//白で塗る\r\n    }\r\n    // BLANK[1] (hint: 縞の色を交互に変えるには2で割った余りを使おう)\r\n\r\n    rect(0, i * d, width, (i + 1) * d);\r\n  }\r\n\r\n  fill(blue);\r\n  let size = d * 5;\r\n  rect(0, 0, size, size);//青い正方形の座標とサイズ指定\r\n  fill(255);//描画する形の塗りつぶしの色を白に指定\r\n  rect(0,size/2-d/2,size,d);//横白線 （x座標、ｙ座標、横幅、縦幅）\r\n  rect(size/2-d/2,0,d,size);//縦白線　（x座標、ｙ座標、横幅、縦幅）\r\n  // BLANK[2] (hint: 白い十字を描くには rect を二つ描こう)\r\n}\r\n"
+            }
+          ]
+        },
+        "classCode": ""
+      },
+      "classCode": ""
+    }
+  ]
+}
