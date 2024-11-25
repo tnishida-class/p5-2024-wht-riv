@@ -4,9 +4,12 @@ function setup(){
   createCanvas(300, 100);
   background(200);
   fill(0);
+
   crossmark(10, 10, 90, 90);
   ngmark(150, 50, 80);
-  star(250, 50, 40);
+
+  let n = 5
+  regularPolygon(n, 250, 50, 40);
 }
 
 function crossmark(x1, y1, x2, y2){
@@ -24,13 +27,13 @@ function ngmark(cx, cy, r){
   pop();
 }
 
-function star(cx, cy, r){
+function regularPolygon(n, cx, cy, r) {
   beginShape();
-  for(var i = 0; i < 5; i++){
-    let theta = TWO_PI * i * 2 / 5 - HALF_PI;
-    let x = cx + cos(theta) * r;
-    let y = cy + sin(theta) * r;
-    vertex(x,y);
+  for (let i = 0; i < n; i++) {
+    let theta = TWO_PI * i / n - HALF_PI; // 頂点の角度
+    let x = cx + cos(theta) * r; // 頂点のX座標
+    let y = cy + sin(theta) * r; // 頂点のY座標
+    vertex(x, y);
   }
   endShape(CLOSE);
 }
