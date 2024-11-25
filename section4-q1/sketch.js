@@ -14,11 +14,22 @@ function setup(){
   const n = 10;
   for(let i = 0; i < n; i++){ line(0, height * i / n, width, height * i / n); }
 
-  // ここからが本番
+  // 折れ線グラフの描写
   fill(0);
-  const dx = width / scores.length;
+  const dx = width / scores.length;//横幅を均等に
   let px, py; // 線を引くために一つ前の点を覚えておく変数
+
   for(let i = 0; i < scores.length; i++){
-    // BLANK[1]
+    const cx=dx*i+dx/2//点の x 座標
+    const cy=height-scores[i] *height/100//点のy座標
+    ellipse(cx,cy,10);//点
+     // 前の点が存在する場合は線を引く
+     if (i > 0) {//0より大きいとき線を引く
+      line(px, py, cx, cy);
+    }
+
+    // 現在の点を次の点のために保存
+    px = cx;
+    py = cy;
   }
 }
